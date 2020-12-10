@@ -1,0 +1,2 @@
+# djangoproject
+project by tutorial
